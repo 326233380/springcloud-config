@@ -1,1 +1,2 @@
-hello:HelloWorld!!!
+config:
+  info: "master branch,Spring Cloud Hello World!!!"
